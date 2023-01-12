@@ -1,4 +1,4 @@
 # Sorter
-Display of Merge/Quicksort in C#
+Display of my own Merge/Quicksort in C#
 
 Try it!
