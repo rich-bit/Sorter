@@ -23,6 +23,8 @@ namespace ConsoleApp1
             Console.Write("[{0}]", string.Join(", ", randomNumbers));//Same with mergesort
 
             Console.Write("\n____________________________________________________\n\n");
+
+            Console.ReadLine();
         }
         static int[] GetRandomNumbers(int amount)
         {
