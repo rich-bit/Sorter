@@ -12,7 +12,7 @@ namespace ConsoleApp1
             new QuickSort().Sort(randomNumbers);//sort those numbers with quicksort
             Console.WriteLine("\n\n--QuickSort--");
             Console.Write("[{0}]", string.Join(", ", randomNumbers));//Print result
-            
+
             Console.Write("\n____________________________________________________\n\n");
 
             randomNumbers = GetRandomNumbers(15);
@@ -32,9 +32,9 @@ namespace ConsoleApp1
 
             int[] intArray = new int[amount];
 
-            for(int i = 0; i < intArray.Length; i++)
+            for (int i = 0; i < intArray.Length; i++)
             {
-                intArray[i] = random.Next(1,15);
+                intArray[i] = random.Next(1, 15);
             }
 
             return intArray;
