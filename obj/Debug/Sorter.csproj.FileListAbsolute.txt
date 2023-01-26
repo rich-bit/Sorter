@@ -5,3 +5,10 @@ C:\Users\richa\Documents\GitHub\Sorter\sorter\Sorter\obj\Debug\Sorter.csproj.Ass
 C:\Users\richa\Documents\GitHub\Sorter\sorter\Sorter\obj\Debug\Sorter.csproj.CoreCompileInputs.cache
 C:\Users\richa\Documents\GitHub\Sorter\sorter\Sorter\obj\Debug\Sorter.exe
 C:\Users\richa\Documents\GitHub\Sorter\sorter\Sorter\obj\Debug\Sorter.pdb
+C:\Users\richa\Documents\GitHub\Sorter\bin\Debug\Sorter.exe.config
+C:\Users\richa\Documents\GitHub\Sorter\bin\Debug\Sorter.exe
+C:\Users\richa\Documents\GitHub\Sorter\bin\Debug\Sorter.pdb
+C:\Users\richa\Documents\GitHub\Sorter\obj\Debug\Sorter.csproj.AssemblyReference.cache
+C:\Users\richa\Documents\GitHub\Sorter\obj\Debug\Sorter.csproj.CoreCompileInputs.cache
+C:\Users\richa\Documents\GitHub\Sorter\obj\Debug\Sorter.exe
+C:\Users\richa\Documents\GitHub\Sorter\obj\Debug\Sorter.pdb
